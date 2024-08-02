@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.0.2",
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "start": "bun --watch server.ts"
+  }
+}
